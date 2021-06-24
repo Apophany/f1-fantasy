@@ -1,0 +1,22 @@
+driver_costs = {
+    "Hamilton": 33.1,
+    "Verstappen": 25.6,
+    "Bottas": 23.0,
+    "Perez": 18.6,
+    "Ricciardo": 15.9,
+    "Leclerc": 17.8,
+    "Vettel": 15.1,
+    "Alonso": 14.8,
+    "Sainz": 14.6,
+    "Stroll": 13.3,
+    "Norris": 13.9,
+    "Gasly": 11.8,
+    "Ocon": 10.4,
+    "Raikkonen": 9.3,
+    "Tsunoda": 8.4,
+    "Giovinazzi": 8.0,
+    "Latifi": 6.4,
+    "Russell": 6.2,
+    "Schumacher": 5.8,
+    "Mazepin": 5.3
+}
